@@ -12,6 +12,9 @@ _This is a character customizer with heavy derivations from Animal Crossing_
 - Open the Terminal
 - Clone the repository from https://github.com/nathan-barrett/animal-town.git
 - Navigate to the directory
+  - touch css
+  - touch css/main.css
+  - sass --watch scss:css
 - Open index.html
 - Or, visit the GH-pages version at [GH PAGES LINK HERE]
 
